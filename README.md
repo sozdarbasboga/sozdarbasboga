@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 Hakkımda
 
-- 🎓 Patika+ Front-End Web Developer Programı mezunuyum  
+- 🎓 Patika+ Front-End Web Developer Programı öğrencisiyim 
 - 🌱 HTML, CSS, Bootstrap, JavaScript ve **React** öğreniyorum  
 - 🛠️ Projeler geliştirerek kendimi geliştiriyorum  
 - 🎯 Hedefim yazılım sektöründe **frontend developer** olarak kariyer yapmak  
