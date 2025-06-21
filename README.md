@@ -67,7 +67,4 @@
 
 ---
 
-<details>
-  <summary>🌐 Küçük Not</summary>
-  Bu profil README'si [OpenAI ChatGPT](https://chat.openai.com) tarafından otomatik olarak hazırlanmıştır.
-</details>
+
